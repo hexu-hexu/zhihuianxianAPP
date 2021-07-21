@@ -1,2 +1,2 @@
 # zhihuianxianAPP
-智慧安鲜网页版APP
+网页版APP
